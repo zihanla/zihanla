@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi look 👋
 
 ### 我
 
@@ -6,6 +6,12 @@
 - 简洁主义者
 - 轻度强迫症(不严重)
 
+ ### 技能
+ 
+ - Golang、Echo、Gin
+ - Mysql、Sqlx
+ - Web
+ 
 ### 爱好
 
 - 搞钱
