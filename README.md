@@ -9,8 +9,8 @@
  ### 技能
  
  - Golang、Echo、Gin
- - Mysql、Sqlx
- - Web
+ - Mysql、Sqlx、Gorm
+ - Vue
  
 ### 爱好
 
